@@ -41,7 +41,7 @@ export const Projects = () => {
               </div>
             </div>
 
-            <div className="p-6 rounded-xl border border-black/10 hover:-translate-y-1 hover:border-pink-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
+            {/* <div className="p-6 rounded-xl border border-black/10 hover:-translate-y-1 hover:border-pink-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
               <h3 className="text-xl font-bold mb-2"> E-commerce Web App</h3>
               <p className="text-gray-500 mb-4">
                 Full-stack E-Commerce with modern UI
@@ -120,7 +120,8 @@ export const Projects = () => {
                   View Project →
                 </a>
               </div>
-            </div>
+            </div> */}
+            
           </div>
         </div>
       </RevealOnScroll>

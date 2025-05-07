@@ -8,7 +8,7 @@ export const About = () => {
     "TailwindCSS",
     "Svelte",
   ];
-  const backendSkills = ["Node.js", "Python", "AWS", "MongoDB", "PostgreSQL"];
+  const backendSkills = ["Node.js", "AWS", "MongoDB", "PostgreSQL"];
 
   return (
     <section
@@ -80,8 +80,8 @@ export const About = () => {
                                     </li> */}
               </ul>
             </div>
-            <div className="p-6 rounded-xl border-black/10 border hover:-translate-y-1 transition-all">
-              {/* <h3 className="text-gray-800 text-xl font-bold mb-4"> 💼 Work Experience</h3>
+            {/* <div className="p-6 rounded-xl border-black/10 border hover:-translate-y-1 transition-all">
+              <h3 className="text-gray-800 text-xl font-bold mb-4"> 💼 Work Experience</h3>
                                 <div className="space-y-4 text-gray-800">
                                     <div>
                                         <h4 className="font-semibold">Software Engineer at ... (2025- Present)</h4>
@@ -92,8 +92,8 @@ export const About = () => {
                                         <h4 className="font-semibold">Intership at ... (2025)</h4>
                                         <p>Assisted in building front-end component and integration REST API</p>
                                     </div>
-                                </div> */}
-            </div>
+                                </div>
+            </div> */}
           </div>
         </div>
       </RevealOnScroll>
